@@ -107,6 +107,11 @@ This is obviously a somewhat incomplete solution... We currently need to create 
 * [Jason Matthews' solution](https://github.com/fo0man/members-only)
 * [Sasikala's solution](https://github.com/Sasikala-Ravichandran/clubhouse)
 * [Dominik Stodolny's solution](https://github.com/dstodolny/members-only)
+* [Lara Finnegan's solution](https://github.com/lcf0285/members-only)
+* [Kevin Mulhern's solution](https://github.com/KevinMulhern/members-only) | [View in browser](https://mysterious-tundra-4233.herokuapp.com/)
+* [Frank Peelen's solution](https://github.com/FrankPeelen/members-only)
+* [Jeremy Mauzy's solution](https://github.com/apositivejam/the_odin_project/tree/master/members_only)
+* [AtActionPark's solution](https://github.com/AtActionPark/odin_members_only) | [View in browser](https://serene-sands-9936.herokuapp.com/)
 * Add your solution above this line!
 
 

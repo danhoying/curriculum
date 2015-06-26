@@ -38,6 +38,10 @@ Also, don't worry about making the comment form work properly... your goal is to
 * [chasmani's solution](https://github.com/chasmani/YoutubeHome) | [View in browser](http://htmlpreview.github.io/?https://github.com/chasmani/YoutubeHome/blob/master/index.html)
 * [Ryan Jordan's solution](https://github.com/krjordan/video-project) | [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/video-project/blob/master/index.html)
 * [Artur Janik's solution](https://github.com/ArturJanik/ProjectYT) | [View in browser](http://htmlpreview.github.io/?https://github.com/ArturJanik/ProjectYT/blob/master/index2.html)
+* [Hailey's solution](https://github.com/hmfoster/embedded-youtube.git) | [View in browser](http://htmlpreview.github.io/?https://github.com/hmfoster/embedded-youtube/blob/master/index.html)
+* [Rob Pennington's solution](https://github.com/rPen/Mock-Ups/tree/gh-pages/YouTube) | [View in browser](http://rpen.github.io/Mock-Ups/YouTube/index.html)
+* [Dominik Stodolny's solution](https://github.com/dstodolny/odintube/) | [View in browser](http://htmlpreview.github.io/?https://github.com/dstodolny/odintube/blob/master/index.html)
+* [AtActionPark's solution](https://github.com/AtActionPark/odin_embedded_images_and_video) | [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_embedded_images_and_video/blob/master/main.html)
 * Add your solution above this line!
 
 

@@ -27,6 +27,10 @@ The page is very straightforward, so you should be able to clone it even if your
 * [chasmani's solution](https://github.com/chasmani/front-end-dojo/tree/master/website-clones/mint.com-signup-form) | [View in browser](http://htmlpreview.github.io/?https://github.com/chasmani/front-end-dojo/blob/master/website-clones/mint.com-signup-form/index.html)
 * [Ryan Jordan's solution](https://github.com/krjordan/HTML-forms) | [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/HTML-forms/blob/master/index.html)
 * [Artur Janik's solution](https://github.com/ArturJanik/ProjectMINT) | [View in browser](http://htmlpreview.github.io/?https://github.com/ArturJanik/ProjectMINT/blob/master/index2.html)
+* [Hailey's solution](https://github.com/hmfoster/mint_sign_up.git) | [View in browser](http://htmlpreview.github.io/?https://github.com/hmfoster/mint_sign_up/blob/master/index.html)
+* [AyeSea's solution](https://github.com/AyeSea/mint-signup) | [View in browser](https://htmlpreview.github.io/?https://github.com/AyeSea/mint-signup/blob/master/index.html)
+* [Dominik Stodolny's solution](https://github.com/dstodolny/mint) | [View in browser](https://htmlpreview.github.io/?https://github.com/dstodolny/mint/blob/master/index.html)
+* [AtActionPark's solution](https://github.com/AtActionPark/odin_html_forms) | [View in browser](https://htmlpreview.github.io/?https://github.com/AtActionPark/odin_html_forms/blob/master/main.html)
 * Add your solution above this line!
 
 
