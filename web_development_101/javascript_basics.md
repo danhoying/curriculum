@@ -142,7 +142,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Mark Viola's solution](https://github.com/markviola/the-odin-project/tree/master/2-javascript-problems)
 * [Patrick Doane's solution](https://github.com/patrickdoane/the_odin_project/tree/master/project-euler)
 * [JTomlin's solution](https://github.com/JTomlin/project-euler) | [View in browser](https://htmlpreview.github.io/?https://github.com/JTomlin/project-euler/blob/master/index.html)
-* [Thulasi Arasu's solution](https://github.com/ThulasiA/javascript101-odinproject/blob/master/odin-javascript-problems.html) | [View in browser](https://rawgit.com/ThulasiA/javascript101-odinproject/master/odin-javascript-problems.html)
+* [Thulasi Arasu's solution](https://github.com/ThulasiA/javascript101-odinproject/blob/master/odin-javascript-problems.html) 
 * [Joseph McConnell's solution](https://github.com/JJMcConnell/TheOdinProject/tree/master/JavaScriptBasics)
 * [Adrian Clark's solution](https://github.com/AdrianClark/The_Odin_Project/tree/master/Euler_Project)
 * [Kevin Sen's solution](https://github.com/Kevin-Sen/javascript_101)
@@ -155,6 +155,24 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [musyilmaz's solution](https://github.com/musyilmaz/Odin-s-Project/tree/master/Web%20Development%20101/Javascript/Project_euler)
 * [Siddharth Gupta's solution](https://github.com/sidgupta234/eulerprojectjs)
 * [impossibleshapes' solution](https://github.com/impossibleshapes/Project-Euler-JavaScript-Odin)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/project_Euler)
+* [Francis Ngo's solution](https://github.com/francisngo/euler_problems) | [View in browser](https://htmlpreview.github.io/?https://github.com/francisngo/euler_problems/blob/master/index.html)
+* [Panashe Fundira's solution](https://github.com/munyari/javascript-euler)
+* [Brian Burke's solution](https://github.com/sanora/javascript-basics)
+* [Pratheeksha's solution](https://github.com/Prat-123/Project_Euler) 
+* [Davis Campbell's solution](https://github.com/davis-campbell/project-euler)
+* [Adrian Manteza's solution](https://github.com/AdManteza/Javascript_Project-Euler) | [View in browser](http://htmlpreview.github.io/?https://github.com/AdManteza/Javascript_Project-Euler/blob/master/index.html)
+* [Dago Henriquez's solution](https://github.com/theDagobahSystem/ProjectEuler) | [View in browser](https://htmlpreview.github.io/?https://github.com/theDagobahSystem/ProjectEuler/blob/master/index.html)
+* [Chris Watland's solution](https://github.com/watlandc/javascript_101)
+* [Adan Camacho's solution](https://github.com/Adancode/Euler_Problems)
+* [Noah Prescott's solution](https://github.com/npresco/project_euler)
+* [Chris Swanson's solution](https://github.com/cswans21/euler_solutions)| [View in browser](https://htmlpreview.github.io/?https://github.com/cswans21/euler_solutions/blob/master/Euler.html)
+* [Calandra Z's solution](https://github.com/calandraz/Euler) |[View in browser](https://rawgit.com/calandraz/Euler/tree/master/Euler.html)
+* [Dylan Bailey's solution](https://github.com/dylancbailey/Project-Euler/tree/master)
+* [Paweł Cichoń solution] (https://github.com/beovulf/the_odin_project/tree/master/javascript_basics) | [View in browser] (https://rawgit.com/beovulf/the_odin_project/master/javascript_basics/index.html#)
+* [Parker Boyes' solution] (https://github.com/boyestrous/Euler-problems)
+* [Jacob Stoebel's solution] (https://github.com/jstoebel/javascript_101)
+* [Chris Avery's solution] (https://github.com/cavery8989/projectEuler) | [View in browser] (http://htmlpreview.github.io/?https://github.com/cavery8989/projectEuler/blob/master/Index.html)
 * Add your solution above this line!
 
 ## Additional Resources
@@ -163,6 +181,6 @@ This lesson will tend to focus on understanding the programming side of Javascri
 
 * A straight-to-the-point [primer on Javascript from discovermeteor.com](https://www.discovermeteor.com/blog/javascript-for-meteor/)
 * More videos about [Javascript Functions from wickedlysmart.com](http://wickedlysmart.com/learning-javascript-functions-part-2/)
-* Reading: The first several sections of the [Javascript 101 tutorial on learn.jquery.com](http://learn.jquery.com/javascript-101/).
+* Reading: The first several sections of the [hsablonniere's Javascript 101 Course](http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0).
 * Interactive: Do the additional sections in the [Codeacademy Javascript Track](http://www.codecademy.com/tracks/javascript).
 * [OverAPI's Javascript cheat sheet](http://overapi.com/javascript/)
