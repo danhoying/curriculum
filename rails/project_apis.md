@@ -65,7 +65,7 @@ We'll start by building our Kitten application to work normally in the browser w
 2. Update the README to describe the application and link back to this project.
 3. Build a Kitten model with attributes of `:name`, `:age`, `:cuteness`, and `:softness`.
 4. Build a KittensController and `:kittens` routes for all 7 RESTful actions.
-3. Remove the default `app/public/index.html` file and set your default route to `KittensController#index`
+3. Set your default route to `KittensController#index`
 5. Fill out each of your controller actions and their corresponding views to display a very basic HTML page -- `#index` should just list all Kittens, `#show` should display a single Kitten, `#new` should render a simple Kitten creation form, `#edit` should use the same form (which should be a partial used by both the New and Edit views) to Edit the Kitten, `#create` and `#update` should do their jobs.
 6. Make a `delete` link on the Kitten's Show and Edit pages, as well as next to each Kitten listed in the Index page.
 7. Implement a simple display of the `flash` hash (like you did in the tutorial) which congratulates you on adding or editing or deleting kittens and makes fun of you for errors in your form.
@@ -102,6 +102,20 @@ This project may seem simple, but now you've got a website that is both a normal
 * [Hutton Brandon's solution](https://github.com/Hutbytheton/odin-kittens)
 * [Jeremy Mauzy's solution](https://github.com/apositivejam/the_odin_project/tree/master/odin-kittens)
 * [dchen71's solution](https://github.com/dchen71/odin-kittens)
+* [Matias Pan's solution](https://github.com/kriox26/odin-kittens)
+* [Tomislav Mikulin's solution](https://github.com/MrKindle85/odin-kittens)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/odin-kittens)
+* [lynchd2's solution](https://github.com/lynchd2/TOP-ruby-on-rails/tree/master/odin-photo-feeder)
+* [Radi Totev's solution](https://github.com/raditotev/odin-kittens)
+* [Luke Walker's solution](https://github.com/ubershibs/rails_course/tree/master/odin-kittens)
+* [srashidi's solution](https://github.com/srashidi/APIs/tree/master/odin-kittens)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/kitten_api)
+* [James Brooks's solution](https://github.com/jhbrooks/kittens-api)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/odin-kittens)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project11--odin-kittens/odin-kittens)
+* [Top's solution](https://github.com/TopOneOfTopOne/kittens-api) | [View in Browser](https://teseter.herokuapp.com/)
+* [Matt Velez's solution](https://github.com/Timecrash/rails-projects/tree/master/odin-kittens)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/odin-kittens)
 * Add your solution above this line!
 
 
@@ -133,6 +147,15 @@ Remember way back in the warm-up when you played with the Flickr API?  Now it's 
 * [Kevin Mulhern's solution](https://github.com/KevinMulhern/odin-flickr-api-app)
 * [AtActionPark's solution - With fix for ssl error on windows](https://github.com/AtActionPark/odin_flickr_api_app)
 * [Jeremy Mauzy's solution](https://github.com/apositivejam/the_odin_project/tree/master/flickr_api)
+* [Tomislav Mikulin's solution](https://github.com/MrKindle85/odin-flickr-api)
+* [Luke Walker's solution](https://github.com/ubershibs/rails_course/tree/master/flickr-sidebar)
+* [srashidi's solution](https://github.com/srashidi/APIs/tree/master/flickr-sidebar)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/flickr_widget) | [View in Browser](https://secure-refuge-22481.herokuapp.com/)
+* [James Brooks's solution](https://github.com/jhbrooks/flickr-get) | [View in browser](https://still-tor-87008.herokuapp.com/)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/odin-photos)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project11--odin-kittens/flickr-viewer)
+* [Top's solution](https://github.com/TopOneOfTopOne/flickr-api) | [View in Browser](https://flickr-apii.herokuapp.com/)
+* [Matt Velez's solution](https://github.com/Timecrash/rails-projects/tree/master/flickr-sidebar)
 * Add your solution above this line!
 
 

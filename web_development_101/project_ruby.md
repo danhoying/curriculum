@@ -7,17 +7,17 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 
 
 1. Follow the instructions atop the [Google Homepage project](/web-development-101/html-css) to set up a Github repository for this project (of course you'll need to change the title).
-1. Go to [testfirst.org's Learn Ruby section](http://testfirst.org/learn_ruby) ([Backup copy here](https://web.archive.org/web/20140328135623/http://testfirst.org/learn_ruby)) and follow the installation instructions.  Basically, you'll be either cloning their Github repository or downloading a zipped file containing all the test files (there are 15).  By opening the main `index.html` file in a browser, you'll have instructions waiting for you which describe what's going on, how to run the tests, and where to put your code so the tests can see it.  The exercises start easy but some of them can be pretty challenging, so good luck! **Update!** Testfirst.org appears to be down but you can download the problem sets from [this Github repository](https://github.com/alexch/learn_ruby) by running `git clone git://github.com/alexch/learn_ruby.git` if you have Git (we're still looking for a .zip file link alternative).  Open the `index.html` file in your local browser once you've downloaded it to receive instructions.  
-**Important:** Test-First Ruby wasn't updated to use rspec 3.xx, so you need the last 2.xx version to work with it. More info [here](https://github.com/TheOdinProject/curriculum/issues/860).
-2. If you absolutely must use an in-browser environment (it would be better for you to do this on your own machine), one is available specifically for these exercises at [http://testfirst.org/live](http://testfirst.org/live). Note for Windows users: As of September 2014, the current version of Rspec is broken in Windows. If this is your first time using rspec (invoked with a different program here that comes with the gem, called Rake), when installing the gem, instead of "gem install rspec", type "gem install rspec -v 2.14.1" into terminal instead.
-3. Do the following exercises.  You'll know you're done when all the tests pass!
+2. Go to [the learn_ruby repo here](https://github.com/TheOdinProject/learn_ruby) and follow the installation instructions in the README.
+3. Follow the **"Getting started with the exercises"** section of the README to find out how to run and make the tests pass.
+4. Do the following exercises.  You'll know you're done when all the tests pass! The exercises start easy but some of them can be pretty challenging, so good luck!
     1. `00_hello`
     2. `01_temperature`
     3. `02_calculator`
     4. `03_simon_says`
     5. `04_pig_latin`
-    6. `08_book_titles`
-    7. `09_timer`
+    6. `05_book_titles`
+    7. `06_timer`
+
 5. Push your project to Github
 
 ## Student Solutions
@@ -28,9 +28,7 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 * [DucPhan's solution](https://github.com/phanducsjsu/Test-First-Ruby)
 * [ErikHP's solution](https://github.com/ErikHP/test-first-ruby)
 * [Afshinator's solution](https://github.com/afshinator/playground/tree/master/TestFirstRubyExercises)
-* [Paul Dariye's solution](https://github.com/pauldd91/theodinproject/tree/master/learn_ruby)
 * [Marina Sergeyeva's solution](https://github.com/imousterian/OdinProject/tree/master/Project1_3_Ruby/learn_ruby)
-* [Sergey Prihodko's solution](https://github.com/sprihodko/odin-projects/tree/master/test-first-ruby)
 * [Jamie's solution](https://github.com/Jberczel/odin-projects/tree/master/learn_ruby)
 * [Angel Vargas' solution](https://github.com/arioth/the-odin-project/tree/master/learn_ruby)
 * [Lamberto Diwa's solution](https://github.com/LambertoD/test_first_ruby)
@@ -98,14 +96,110 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 * [Ho Won Cheng's solution](https://github.com/chenghw/ruby_101_project)
 * [Aleksandre Clapin-Pepin's solution](https://github.com/aclapinpepin/test-first-teaching)
 * [Scott Bobbitt's Solution](https://github.com/sco-bo/rspec-ruby)
-* [Florian Mainguy's Solution](https://github.com/florianmainguy/test_first_ruby)
+* [Florian Mainguy's Solution](https://github.com/florianmainguy/theodinproject/tree/master/web-development-101/test-first-ruby)
 * [dchen71's Solution](https://github.com/dchen71/the_odin_project/tree/master/Web%20Development%20101/Learn%20Ruby)
 * [Spekachu's Solution](https://github.com/Spekachu/learn_ruby)
 * [Sandeep's Solution](https://github.com/sand33pn/odin_ruby_project)
 * [Pugsiman's solution](https://github.com/pugsiman/ruby_test_first)
+* [Noah Prescott's solution](https://github.com/npresco/test_first_ruby)
+* [Moiz Hasan's solution](https://github.com/MoizHasan/Test-First-Ruby)
+* [Max Platt's solution](https://github.com/makxks/ruby_testing)
+* [Patrick Li's solution](https://github.com/PatrickLi727/Test-First-Ruby)
+* [Chris Swanson's solution](https://github.com/cswans21/test_first_exercises)
+* [jitterboggle's solutions](https://github.com/jitterboggle/learn_ruby_test_first)
+* [Paweł Cichoń solution](https://github.com/beovulf/learn_ruby)
+* [Parker Boyes' solution](https://github.com/boyestrous/Learn_ruby-test_first)
+* [Corey Cunningham' solution](https://github.com/ccunnin8/rspec_project)
+* [Chris Watland's solution](https://github.com/watlandc/odin-project/tree/master/learn-ruby)
+* [Austin Mason's solution](https://github.com/CouchofTomato/ruby-basics)
+* [djhart's solution](https://github.com/djhart/ruby_test)
+* [Giorgos Mitsis's solution](https://github.com/vinPopulaire/learn-ruby-project)
+* [Novneet's Solution](https://github.com/novneetnov/ruby-test-first-development-project)
+* [Kelvin Stone's Solution](https://github.com/KelvinStone/test-first-ruby.git)
+* [Alan Daniels's solution](https://github.com/AlanDaniels101/odin-ruby-project)
+* [Andrew Park's solution](https://github.com/akpark93/the_odin_project/tree/master/learn_ruby)
+* [Anthony Vumbaca's solution](https://github.com/tvumbaca/testfirst_ruby)
+* [Petros Kalogiannakis's solution](https://github.com/kalpetros/TheOdinProject/tree/master/test_first_ruby)
+* [Amrr Bakry's solution](https://github.com/Amrrbakry/learn_ruby)
+* [Skye Free's solution](https://github.com/swfree/the-odin-project/tree/master/learn-ruby)
+* [Corey Kazaks' solution](https://github.com/ck626/project_test_first_ruby)
+* [Dominik Chomicki's solution](https://github.com/hamstersky/ruby_TDD)
+* [Luke Walker's solution](https://github.com/ubershibs/ruby-intro)
+* [Francisco Carlos's solution](https://github.com/fcarlosdev/learn_ruby.git)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/project-ruby)
+* [Andrew Johnson's solution](https://github.com/ad-johnson/learn_ruby)
+* [Kelly Downes' solution](https://github.com/kdow/test-first-learn-ruby)
+* [Andrea Marongiu's solution](https://github.com/carbonhoarder/0003-ruby-test-first/)
+* [DV's solution](https://github.com/dvislearning/learn_ruby_rspec)
+* [Mateusz Staszczyk's solution](https://github.com/sleaz0id/Odin_TestFirstRuby)
+* [YogAzathoth's solution](https://github.com/YogAzathoth/projectRuby.git)
+* [Jean Merlet's solution](https://github.com/jeanmerlet/test_first_ruby)
+* [Jack Deegan's solution](https://github.com/DidsyTurbo/learn_ruby)
+* [Mitesh Athia's solution](https://github.com/mathia4/ruby_exercises)
+* [Earth35's solution](https://github.com/Earth35/project-basic-ruby)
+* [Mitch Conquer's solution](https://github.com/mitchrobot/learn_ruby)
+* [Kevin Biddle's solution](https://github.com/kdbiddle/ruby_testing)
+* [Marie Sheridan's solution](https://github.com/mariesheridan/learn_ruby)
+* [Anvekar's solution](https://github.com/gga26/Rspec-Tests)
+* [Max Gallant's solution](https://github.com/mcgalcode/Ruby/tree/master/learn_ruby)
+* [Jess Farley's solution](https://github.com/littlemighty/test_first)
+* [Greg Pritchard's solution](https://github.com/gregoryneal/tdd_ruby_tests)
+* [Javeed Ishaq's solution](https://github.com/JaveedIshaq/theodinproject_projects/tree/master/learn_ruby)
+* [Peter Taggart's solution](https://github.com/gitschwifty/Programming/tree/master/The%20Odin%20Project/Ruby/TestFirst%20Project)
+* [CodyLBuffaloe's solution](https://github.com/CodyLBuffaloe/learn_ruby)
+* [John Gerakaris's solution](https://github.com/gerak1925/basic_ruby_project)
+* [Ramon Reyes's solution](https://github.com/Reyesjunk/test_first)
+* [Johnny Rasnic's solution](https://github.com/lonniganseaweed/the-odin-project-solutions/tree/master/2:%20Web%20Development%20101/learn_ruby)
+* [Tom Westerhout's solution](https://github.com/Westw00d/Ruby)
+* [Paul McGarry's solution](https://github.com/thiswillhavetodo/Project-Ruby)
+* [Huw Diprose's solution](https://github.com/huwd/learn_ruby)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/test_first_ruby)
+* [Rellbows' solution](https://github.com/rellbows/Ruby101Project.git)
+* [Oscar Yih's solution](https://github.com/mysteryihs/Ruby-TDD)
+* [Krzysztof's solution](https://github.com/itmightgetloud/learn_ruby)
+* [James harder's solution](https://github.com/james-harder/learn_ruby.git)
+* [Deepak's solution](https://github.com/Deepak5050/project_ruby.git)
+* [Cornelius Edward's solution](https://github.com/corneal64/learn_ruby)
+* [wSlitz's solution](https://github.com/wSlitz/ruby_project)
+* [taekyung's solution](https://github.com/taekyunggg/learn_ruby)
+* [rwobben's solution](https://github.com/rwobben/learn_ruby)
+* [Piotr Ejsmont's solution](https://github.com/PiotrEjsmont/learn_ruby)
+* [John Connor's solution](https://github.com/jacgitcz/project_ruby)
+* [Shala's solution](https://github.com/ShalaQweghen/project_ruby)
+* [Lani Huang's solution](https://github.com/laniywh/the-odin-project/tree/master/web-development-101/ruby-project)
+* [Singh Satnam's solution](https://github.com/rssatnam/project-ruby)
+* [dzero's solution](https://github.com/d-zer0/the_odin_project/tree/master/project3_ruby/ruby_testing)
+* [dckwong's solution](https://github.com/dckwong/learn_ruby)
+* [Ricardo Ferreira's solution](https://github.com/RMF2PT/ruby-testfirst)
+* [Promethea Oue's solution](https://github.com/prometheaOue/testfirst_ruby)
+* [ac07682's solution](https://github.com/ac07682/test-driven-ruby)
+* [Luján Fernaud's solution](https://github.com/lujanfernaud/test-first-ruby)
+* [Mason Embry's Solution](https://github.com/embryCODE/learn_ruby)
+* [At0micr3d's Solution](https://github.com/at0micr3d/project_ruby.git)
+* [Armin Zierlinger's Solution](https://github.com/ArminZierlinger/Ruby)
+* [Ace Cassidy's Solution](https://github.com/Ace-Cassidy/rspec_problems.git)
+* [Jiazhi Guo's Solution](https://github.com/jerrykuo7727/test-first-ruby)
+* [Robert Merriman's Solution](https://github.com/RobertBMerriman/learn_ruby)
+* [Seiji's Solution](https://github.com/seijibas/learn-ruby)
+* [John Alcher's Solution](https://github.com/alchermd/ruby-test-first)
+* [Defgarden's Solution](https://github.com/Defgarden/learn_ruby)
+* [Veselin Ivanov's Solution](https://github.com/terlica/Odin_ruby_project)
+* [Emil Dimitrov's Solution](https://github.com/emo1/basic-ruby)
+* [Tom Bell's Solution](https://github.com/bellt/learn_ruby)
+* [Dayuwn's Solution](https://github.com/Dayuwn/rb-tdd)
+* [Vanessa Tan's Solution](https://github.com/vanJargon/test-first-ruby)
+* [Bryan G's Solution](https://github.com/BryanGigs/odin-webdev101-ruby)
+* [Manu Phatak's HIGH ENERGY Solution!](https://github.com/bionikspoon/learn_ruby)
+* [HenrytheDJ's solution](https://github.com/henrythedj/learn_ruby)
+* [Dave Smith's Solution](https://github.com/lah4life/learn_ruby)
+* [Sayan's Solution](https://github.com/ChoosingUsernameIsSoHard/project-ruby/tree/master)
+* [Karthik's Solution] (https://github.com/kmeda/web101_ruby_proj)
+* [Roy Chen's Solution](https://github.com/roychen5/learn_ruby)
+* [David Chapman's Solution](https://github.com/davidchappy/learn_ruby)
+* [Young Jeong's Solution](https://github.com/youngjeong46/the_odin_project/tree/master/learn_ruby)
+* [BJ Bryant's Solution] (https://github.com/bryantbj/learn_ruby)
+* [Loris Aranda's Solution] (https://github.com/LorisProg/learn_ruby)
 * Add your solution above this line!
-
-
 
 ## Additional Resources
 

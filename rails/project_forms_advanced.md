@@ -83,6 +83,22 @@ Once the user has submitted their chosen flight, it's time to take their booking
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_flight_booker)
 * [Andrej Dragojevic's solution](https://github.com/antrix1/flight-booker) | [View in browser](https://blooming-mountain-4761.herokuapp.com/)
 * [dchen71's solution](https://github.com/dchen71/odin-flight-booker) | [View in browser](http://true-syrup-4655.herokuapp.com/)
+* [Matias Pan's solution](https://github.com/kriox26/flight-booker) | [View in browser](https://vast-ridge-2462.herokuapp.com/)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/flight-booker)
+* [Tomislav Mikulin's solution](https://github.com/MrKindle85/tom-flight-booker)
+* [Hassan Mahmoud's solution](https://github.com/HassanTC/Flight-Booker)
+* [Radi Totev's solution](https://github.com/raditotev/flight_booker)
+* [Patrick Mallee's solution](https://github.com/patmallee/flight-booker)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/rails/flight-booker)
+* [Luke Walker's solution](https://github.com/ubershibs/rails_course/tree/master/odin-flight-booker)
+* [srashidi's solution](https://github.com/srashidi/Advanced_Forms/tree/master/odin-flight-booker)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/flight-booker) | [View in Browser](https://radiant-fortress-17197.herokuapp.com/)
+* [James Brooks's solution](https://github.com/jhbrooks/flight-booker) | [View in browser](https://rocky-earth-72202.herokuapp.com/)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/odin-flight-booker)
+* [Matt Velez's solution](https://github.com/Timecrash/rails-projects/tree/master/flight-booker)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project10--odin-flight-booker/odin-flight-booker)
+* [Stefan (Cyprium)'s solution](https://github.com/dev-cyprium/odin-flight-booker) | [View in browser](https://flight-booker-stefan.herokuapp.com/)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/flight-booker) | [View in browser](https://flight-booker-rails.herokuapp.com)
 * Add your solution above this line!
 
 ## Additional Resources

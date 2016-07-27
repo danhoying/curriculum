@@ -14,7 +14,7 @@ As an added bonus, you'll get a chance to touch a bit of AJAX when making it so 
 ### Your Task
 
 1. You've got a User model.  Write down how you would implement (and name) the associations necessary to make one user follow another.  You'll get a lot more out of the tutorial chapter if you think it through first.
-2. Do the [Ruby on Rails Tutorial Chapter 12](http://ruby.railstutorial.org/chapters/following-users#top), "Following users".
+2. Do the [Ruby on Rails Tutorial Chapter 12](https://www.railstutorial.org/book/following_users), "Following users".
 
 ## Additional Resources
 
@@ -22,3 +22,4 @@ As an added bonus, you'll get a chance to touch a bit of AJAX when making it so 
 
 
 * [Railscast on Many-to-Many Self-Referential Relationships (2010)](http://railscasts.com/episodes/163-self-referential-association?view=asciicast).  This is old but should be helpful to see the concept covered.
+* [Screencast on Many-to-Many Self-Referential Relantionships with has_many :through](https://www.youtube.com/watch?v=PD0-efs7s_A)

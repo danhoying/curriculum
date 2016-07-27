@@ -7,7 +7,7 @@
 
 Sorting algorithms are some of the earliest that you typically get exposed to in Computer Science.  It may not be immediately obvious how important they are, but it shouldn't be hard to think of some examples where your computer needs to sort some massive datasets during everyday operations.
 
-One of the simpler (but more processor-intensive) ways of sorting a group of items in an array is **bubble sort**, where each element is compared to the one next to it and they are swapped if the one on the right is larger than the one on the left.  This continues until the array is eventually sorted.
+One of the simpler (but more processor-intensive) ways of sorting a group of items in an array is **bubble sort**, where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right.  This continues until the array is eventually sorted.
 
 Check out [this video from Harvard's CS50x on Bubble Sort](http://cs50.tv/2012/fall/shorts/bubble_sort/bubble_sort-720p.mp4).
 
@@ -85,7 +85,7 @@ There's also [an entry on Bubble Sort on Wikipedia](http://en.wikipedia.org/wiki
 * [Brann James' solution](https://github.com/brannj/The_Odin_Project/blob/master/Advanced_Building_Blocks/bubble_sort.rb)
 * [Eduardo Frias' solution](https://github.com/feek1g/theodinproject/blob/master/rubyChallenge/bubble_sort.rb)
 * [Antonio Augusto's solution](https://github.com/antoniosb/bubble_sort)
-* [Ryan Jordan's solution](https://github.com/krjordan/advanced_building_blocks)
+* [Ryan Jordan's solution](https://github.com/TheOdinProject/curriculum/blob/master/ruby/project_advanced_building_blocks.md)
 * [Josh Klein's solution](https://github.com/kleinjoshuaa/Ruby_Programming/blob/master/bubblesort.rb)
 * [ll14m4n's solution](https://github.com/ll14m4n/the-odin-project/blob/master/3_Ruby_building-blocks/lib/bubble_sort.rb)
 * [AtActionParks's solution](https://github.com/AtActionPark/odin-ruby-advanced-building-blocks/blob/master/bubble-sort.rb)
@@ -109,6 +109,83 @@ There's also [an entry on Bubble Sort on Wikipedia](http://en.wikipedia.org/wiki
 * [Berin Larson's solution](https://github.com/larson004/the-odin-project/tree/master/Chap-03-Advanced-Ruby/advanced_building_blocks/bubble_sort)
 * [Jason Symons' solution](https://github.com/jsymons/the-odin-project/blob/master/03_ruby_programming/advanced-building-blocks/bubble_sort.rb)
 * [AnthonyL's solution](https://github.com/AnthonyLarios/adv-building-blocks/blob/master/bubble_sort.rb)
+* [Angus Dobson's solution](https://github.com/Apneal/ruby_building_blocks/blob/master/bubble_sort.rb)
+* [Ashley Lewis's solution](https://github.com/ashleymichal/the_odin_project/blob/master/the-odin-project/ruby/bubble_sort.rb)
+* [Panashe Fundira's solution](https://github.com/munyari/adv_building_blocks/blob/master/bubble_sort.rb)
+* [pwdd's solution](https://github.com/pwdd/odinproject/blob/master/ruby_training/bubble_sort.rb)
+* [Paweł Cichoń solution](https://github.com/beovulf/bubble_sort_and_enumerable_methods/blob/master/bubble_sort.rb)
+* [Noah Prescott's solution](https://github.com/npresco/ruby_advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/blob/master/ruby/advanced-building-blocks/bubble_sort.rb)
+* [Aviv levinsky's solution](https://github.com/pugsiman/Ruby_challenges_and_projects/blob/master/Bubble_Sort/bubble.rb)
+* [Alex Tsiras' solution](https://github.com/arialblack14/ruby-programming/blob/master/ruby%20building%20blocks/bubble_sort.rb)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/bubble_sort)
+* [Maciej Panasiewicz's solution](https://github.com/Grunthor/TheOdinProject/blob/master/project_advenced_building_blocks/BubleSort.rb)
+* [Adrian Manteza's solution](https://github.com/AdManteza/BubbleSort/blob/master/BubbleSort.rb)
+* [Simon Kraus' solution](https://github.com/simonkrausgit/the_odin_project/blob/master/ruby/building_blocks/bubble_sort.rb)
+* [Robin van de Griend's solution](https://github.com/RobinvdGriend/ruby-sandbox/blob/master/advanced-building-blocks-project/project_1.rb)
+* [Giorgos Mitsis's solution](https://github.com/vinPopulaire/ruby-building-blocks-project/blob/master/bubblesort.rb)
+* [Theoderik Trajanson's solution](https://github.com/Theoderik/education/blob/master/Bubble_Sort.rb)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/blob/master/ruby/Project4--Bubble-sort/Bubble-sort.rb)
+* [srashidi's solution](https://github.com/srashidi/Ruby_Building_Blocks/blob/master/bubble_sort.rb)
+* [Eric's solution](https://github.com/em77/bubble_sort/blob/master/bubble_sort.rb)
+* [Dave Meister's solution](https://github.com/misterdavemeister/theodinproject/blob/master/advanced_building_blocks/bubble_sort/bubble_sort.rb)
+* [Andrew Park's solution](https://github.com/akpark93/the_odin_project/blob/master/ruby_programming_projects/bubble_sort.rb)
+* [Austin Mason's solution](https://github.com/CouchofTomato/ruby_advanced_building_blocks/blob/master/bubble_sort.rb)
+* [James Brooks's solution](https://github.com/jhbrooks/bubble-sort)
+* [arocketman's solution](https://github.com/arocketman/OdinProjectSolutions/blob/master/bubble_sort.rb)
+* [Ricardo Villegas' solution](https://github.com/claricardo/RubyBuildingBlocks/blob/master/bubble_sort.rb)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/ruby/advanced-building-blocks/bubble_sort)
+* [Skye Free's solution](https://github.com/swfree/the-odin-project/blob/master/bubble-sort/bubble-sort.rb)
+* [Corey Kazaks's solution](https://github.com/ck626/project_ruby_advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Dominik Chomicki's solution](https://github.com/hamstersky/ruby_building_blocks/blob/master/bubble_sort.rb)
+* [Matt Leininger's solution](https://github.com/pilauPro/the-odin-project/blob/master/bubble_sort/bubble_sort.rb)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/projects/blob/master/bubble_sort.rb)
+* [Maia Petee's solution](https://github.com/movetomars/Advanced-Building-Blocks/blob/master/bubblesort.rb)
+* [Peuchen's solution](https://github.com/Peuchen/advanced-building-blocks/blob/master/bubblesort.rb)
+* [Andrew Johnson's solution](https://github.com/ad-johnson/basic-ruby/blob/master/src/sorter.rb)
+* [Bartlomiej Lazarski's solution](https://github.com/YogAzathoth/buildingRubyBlocks/blob/master/bubble.rb)
+* [Francisco Carlos's solution](https://github.com/fcarlosdev/ruby_programing/blob/master/advanced_blocks/bubble_sort.rb)
+* [Luke Walker's solution](https://github.com/ubershibs/ruby-programming/blob/master/bubble_sort.rb)
+* [Noobling's solution](https://github.com/noobling/ruby/blob/master/advanced_buidling_blocks/bubblesort.rb)
+* [Max Gallant's solution](https://github.com/mcgalcode/Ruby/blob/master/AdvancedBlocksProject/bubble_sort.rb)
+* [Jean Merlet's solution](https://github.com/jeanmerlet/ruby_building_blocks/blob/master/bubble_sort.rb)
+* [parhaml's solution](https://github.com/parhaml/bubble_sort/blob/master/bubble.rb)
+* [Zac Conner's solution](https://github.com/connerza/BuildingBlocks/blob/master/bubble.rb)
+* [John Martinez's solution](https://github.com/johndavidmartinez/learn-ruby/blob/master/bubble_sort.rb)
+* [Vivek Kumar's solution](https://github.com/myjoytou/theOdinProject/blob/master/ruby/bubblesort.rb)
+* [Benjamin Contant's solution](https://github.com/bcontant/the_odin_project/blob/master/bubble_sort/bubble_sort.rb)
+* [DV's solution](https://github.com/dvislearning/bubble_sort/blob/master/bubble_sort.rb)
+* [John's solution](https://github.com/johnTheDudeMan/the_odin_project/tree/master/advanced_building_blocks)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/ruby_advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Omar Cagua's solution](https://github.com/OmarTGc/bubble_sort/blob/master/bubble_sort.rb)
+* [Deepak's solution](https://github.com/Deepak5050/advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Lani Huang's solution](https://github.com/laniywh/the-odin-project/blob/master/ruby-programming/advanced-building-blocks/bubble_sort.rb)
+* [Anthony Vumbaca's solution](https://github.com/tvumbaca/Ruby_Advanced_Building_Blocks/blob/master/bubble_sort.rb)
+* [John Connor's solution](https://github.com/jacgitcz/bubble_sort)
+* [Shala Qweghen's solution](https://github.com/ShalaQweghen/advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Earth35's solution](https://github.com/Earth35/basic_ruby_projects_II/blob/master/bubble_sort.rb)
+* [Kelvin Stone's solution](https://github.com/KelvinStone/bubble-sort/blob/master/bubble-sort.rb)
+* [Ricardo Ferreira's solution](https://github.com/RMF2PT/ruby_programming/blob/master/bubble_sort.rb)
+* [Cyprium (Stefan)'s solution](https://github.com/dev-cyprium/DataStructures-In-Ruby)
+* [Michael Sotkin)'s solution](https://github.com/msotkin/advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Shawn Stovall's solution](https://github.com/shawn-stovall/bubble-sort/blob/master/bubble-sort.rb)
+* [Joshua Hipple's solution](https://github.com/JBHipple/bubble_sort/blob/master/bubble_sort.rb)
+* [Oscar Y.'s solution](https://github.com/mysteryihs/ruby_projects/blob/master/bubble_sort.rb)
+* [Ace Cassidy's solution](https://github.com/Ace-Cassidy/my_methods/blob/master/my_sorts.rb)
+* [Adam Graham's solution](https://github.com/adamg703/Odin_Project/blob/master/bubble_sort.rb)
+* [Luchillo's solution](https://github.com/Luchillo/The-Odin-Project-course/blob/master/Ruby-programming/Basic-ruby/bubble_sort.rb)
+* [Rahul's solution](https://github.com/rspsonu/the_odin_project/blob/master/ruby/advanced_building_blocks/project1.rb)
+* [Clint's](https://github.com/tholymap/Odin-Ruby-Advanced-Building-Blocks/blob/master/bubble_sort.rb)
+* [j-campbell's solution](https://github.com/j-campbell/advanced-building-blocks/tree/master/project_1)
+* [Clint's](https://github.com/tholymap/Odin-Ruby-Advanced-Building-Blocks/blob/master/bubble_sort.rb)
+* [Jiazhi Guo's solution](https://github.com/jerrykuo7727/bubble-sort/blob/master/bubble_sort.rb)
+* [Zuqi Chen's solution](https://github.com/JokeyChen/the-odin-project-ruby-programming/blob/master/basic-ruby/advanced-ruby-building-blocks/bubble_sort.rb)
+* [Manu Phatak's solution](https://github.com/bionikspoon/ruby_building_blocks/blob/master/lib/bubble_sort.rb)
+* [Cody Buffaloe's solution](https://github.com/CodyLBuffaloe/bubble_sort/blob/master/bubble_sort.rb)
+* [Leonard Soai-Van solution] (https://github.com/leosoaivan/rubybuildingblocks/blob/master/bubblesort.rb)
+* [J-kaizen's solution](https://github.com/J-kaizen/TheOdinProject/blob/master/Ruby/advanced_building_blocks/bubble_sort.rb)
+* [Max Platt's solution](https://github.com/makxks/advanced_building_blocks/blob/master/bubble_sort.rb)
+* [Roy Chen's solution](https://github.com/roychen5/ruby-building-blocks/blob/master/bubble-sort/bubble_sort.rb)
 * Add your solution above this line!
 
 
@@ -134,12 +211,12 @@ You learned about the Enumerable module that gets mixed in to the Array and Hash
 4. Create `#my_all?` (continue as above)
 5. Create `#my_any?`
 6. Create `#my_none?`
-6. Create `#my_count`
-4. Create `#my_map`
-6. Create `#my_inject`
-7. Test your `#my_inject` by creating a method called `#multiply_els` which multiplies all the elements of the array together by using `#my_inject`, e.g. `multiply_els([2,4,5]) #=> 40`
-7. Modify your `#my_map` method to take a proc instead.
-8. Modify your `#my_map` method to take either a proc or a block, executing the block only if both are supplied (in which case it would execute both the block AND the proc).
+7. Create `#my_count`
+8. Create `#my_map`
+9. Create `#my_inject`
+10. Test your `#my_inject` by creating a method called `#multiply_els` which multiplies all the elements of the array together by using `#my_inject`, e.g. `multiply_els([2,4,5]) #=> 40`
+11. Modify your `#my_map` method to take a proc instead.
+12. Modify your `#my_map` method to take either a proc or a block. It won't be necessary to apply both a proc and a block in the same `#my_map` call since you could get the same effect by chaining together one `#my_map` call with the block and one with the proc. This approach is also clearer, since the user doesn't have to remember whether the proc or block will be run first. So if both a proc and a block are given, only execute the proc.
 
 **Quick Tips:**
 
@@ -151,7 +228,7 @@ You learned about the Enumerable module that gets mixed in to the Array and Hash
 
 * [Jamie's solution](https://github.com/Jberczel/odin-projects/blob/master/ruby_advanced/project2.rb)
 * [Chris Oldakowski's solution](https://github.com/krzysieko/theodinproject/blob/master/advanced_ruby_blocks/enumerable.rb)
-* [Marina Sergeyeva's solution](https://github.com/imousterian/OdinProject/blob/master/Project2_2_Ruby_AdvancedBlocks/MyEnumerable.rb)  
+* [Marina Sergeyeva's solution](https://github.com/imousterian/OdinProject/blob/master/Project2_2_Ruby_AdvancedBlocks/MyEnumerable.rb)
 * [Afshin M. afshinator's solution](https://github.com/afshinator/playground/tree/master/Ruby-AdvancedBuildingBlocks)
 * [Donald's solution](https://github.com/donaldali/odin-ruby/tree/master/project_adv_building_blocks)
 * [Alan Russell's solution](https://github.com/ajrussellaudio/adv_build_blocks/blob/master/enumerable_methods.rb)
@@ -192,7 +269,7 @@ You learned about the Enumerable module that gets mixed in to the Array and Hash
 * [Eduardo Frias' solution](https://github.com/feek1g/theodinproject/blob/master/rubyChallenge/enumerable.rb)
 * [Andrej Dragojevic's solution](https://github.com/antrix1/The-Odin-Project/blob/master/Ruby%20Programming/Advanced%20Building%20Blocks/enumerate.rb)
 * [Antonio Augusto's solution](https://github.com/antoniosb/enumerable_methods)
-* [Ryan Jordan's solution](https://github.com/krjordan/advanced_building_blocks/blob/master/enumerable.rb)
+* [Ryan Jordan's solution](https://github.com/TheOdinProject/curriculum/blob/master/ruby/project_advanced_building_blocks.md)
 * [ll14m4n's solution](https://github.com/ll14m4n/the-odin-project/blob/master/3_Ruby_building-blocks/lib/my_enumerable.rb)
 * [AtActionParks's solution](https://github.com/AtActionPark/odin-ruby-advanced-building-blocks/blob/master/Enumerable_methods/lib/enumerable_methods.rb)
 * [Matias Pan's solution](https://github.com/kriox26/odin_ruby/blob/master/ruby_building_blocks/enumerable_methods.rb)
@@ -213,12 +290,79 @@ You learned about the Enumerable module that gets mixed in to the Array and Hash
 * [Jason Symons' solution](https://github.com/jsymons/the-odin-project/blob/master/03_ruby_programming/advanced-building-blocks/enumerable_methods.rb)
 * [PiotrAleksander's solution](https://github.com/PiotrAleksander/Ruby/blob/master/Enumerable.rb)
 * [AnthonyL's solution](https://github.com/AnthonyLarios/adv-building-blocks/blob/master/enumerable_methods.rb)
+* [Angus Dobson's solution](https://github.com/Apneal/ruby_building_blocks/blob/master/enumerable.rb)
+* [Ashley Lewis's solution](https://github.com/ashleymichal/the_odin_project/blob/master/the-odin-project/ruby/enumerable.rb)
+* [Panashe Fundira's solution](https://github.com/munyari/adv_building_blocks/blob/master/enum_methods.rb)
+* [pwdd's solution](https://github.com/pwdd/odinproject/blob/master/ruby_training/enumerables.rb)
+* [Paweł Cichoń solution](https://github.com/beovulf/bubble_sort_and_enumerable_methods/blob/master/enumerable_methods.rb)
+* [Noah Prescott's solution](https://github.com/npresco/ruby_advanced_building_blocks/blob/master/enumerable.rb)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/blob/master/ruby/advanced-building-blocks/enumerable.rb)
+* [Aviv levinsky's solution](https://github.com/pugsiman/Ruby_challenges_and_projects/blob/master/Enumerable_Methods/enumerable.rb)
+* [Alex Tsiras' solution](https://github.com/arialblack14/ruby-programming/blob/master/enumerable-methods/enumerable.rb)
+* [Maciej Panasiewicz's solution](https://github.com/Grunthor/TheOdinProject/blob/master/project_advenced_building_blocks/EnumerableMethods.rb)
+* [Adrian Manteza's solution](https://github.com/AdManteza/Enumerables/blob/master/myEnumerables.rb)
+* [Robin van de Griend's solution](https://github.com/RobinvdGriend/ruby-sandbox/blob/master/advanced-building-blocks-project/project_2.rb)
+* [Giorgos Mitsis's solution](https://github.com/vinPopulaire/ruby-building-blocks-project/blob/master/enumerable_methods.rb)
+* [Theoderik Trajanson's solution](https://github.com/Theoderik/education/blob/master/MyEnumerables.rb)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/blob/master/ruby/project5--Enumerable-methods/enumerable.rb)
+* [srashidi's solution](https://github.com/srashidi/Ruby_Building_Blocks/blob/master/My_Enumerable/My_Enumerable.rb)
+* [Eric's solution](https://github.com/em77/enumerable/blob/master/enumerable.rb)
+* [Dave Meister's solution](https://github.com/misterdavemeister/theodinproject/blob/master/advanced_building_blocks/enumerable/my_enumerable.rb)
+* [Andrew Park's solution](https://github.com/akpark93/the_odin_project/blob/master/ruby_programming_projects/enumerable.rb)
+* [Austin Mason's solution](https://github.com/CouchofTomato/ruby_advanced_building_blocks/blob/master/enumerable_extension.rb)
+* [James Brooks's solution](https://github.com/jhbrooks/my-enumerable)
+* [Ricardo Villegas' solution](https://github.com/claricardo/RubyBuildingBlocks/blob/master/my_enumerables.rb)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/ruby/advanced-building-blocks/enumerable_methods)
+* [Skye Free's solution](https://github.com/swfree/the-odin-project/blob/master/enumerable-methods/enumerable_methods.rb)
+* [Dominik Chomicki's solution](https://github.com/hamstersky/ruby_building_blocks/blob/master/enumerable_methods.rb)
+* [Corey Kazaks' solution](https://github.com/ck626/project_ruby_advanced_building_blocks/blob/master/enum_methods.rb)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/projects/blob/master/enumerables.rb)
+* [Matt Leininger's solution](https://github.com/pilauPro/the-odin-project/blob/master/enumerables/enumerables.rb)
+* [Peuchen's solution](https://github.com/Peuchen/advanced-building-blocks/blob/master/enumerable.rb)
+* [Andrew Johnson's solution](https://github.com/ad-johnson/basic-ruby/blob/master/src/enumeration.rb)
+* [Bartlomiej Lazarski's solution](https://github.com/YogAzathoth/buildingRubyBlocks/blob/master/enumerable.rb)
+* [Maia Petee's solution](https://github.com/movetomars/Advanced-Building-Blocks/blob/master/enumerable.rb)
+* [Francisco Carlos's solution](https://github.com/fcarlosdev/ruby_programing/blob/master/advanced_blocks/enumerable_methods.rb)
+* [Luke Walker's solution](https://github.com/ubershibs/ruby-programming/blob/master/enumerable.rb)
+* [Noobling's solution](https://github.com/noobling/ruby/blob/master/advanced_buidling_blocks/enumerables.rb)
+* [TheBetterNewt's solution](https://github.com/thebetternewt/my-enumerable/blob/master/my-enumerable.rb)
+* [Max Gallant's solution](https://github.com/mcgalcode/Ruby/blob/master/AdvancedBlocksProject/my_enums.rb)
+* [Jean Merlet's solution](https://github.com/jeanmerlet/ruby_building_blocks/blob/master/enumerable.rb)
+* [parhaml's solution](https://github.com/parhaml/enumerables/blob/master/enumerables.rb)
+* [Zac Conner's solution](https://github.com/connerza/BuildingBlocks/blob/master/Enumerable.rb)
+* [Benjamin Contant's solution](https://github.com/bcontant/the_odin_project/blob/master/enumerators/enumerators.rb)
+* [DV's solution](https://github.com/dvislearning/my_enumerable/blob/master/my_enumerable.rb)
+* [Vivek Kumar's solution](https://github.com/myjoytou/theOdinProject/blob/master/ruby/enumerable.rb)
+* [Johnny Rasnic's solution](https://github.com/lonniganseaweed/the-odin-project-solutions/tree/master/3:%20Ruby%20Programming/ruby-exercises-advanced)
+* [John's solution](https://github.com/johnTheDudeMan/the_odin_project/blob/master/advanced_building_blocks/my_enumerable_methods.rb)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/ruby_advanced_building_blocks/blob/master/enumerable.rb)
+* [Omar Cagua's solution](https://github.com/OmarTGc/enumerable_methods/blob/master/enumerable_methods.rb)
+* [Deepak's solution](https://github.com/Deepak5050/advanced_building_blocks/blob/master/my_enumerable.rb)
+* [Lani Huang's solution](https://github.com/laniywh/the-odin-project/blob/master/ruby-programming/advanced-building-blocks/my_enumerable.rb)
+* [Anthony Vumbaca's solution](https://github.com/tvumbaca/Ruby_Advanced_Building_Blocks/blob/master/my_enumerable.rb)
+* [Shala Qweghen's solution](https://github.com/ShalaQweghen/advanced_building_blocks/blob/master/enumerable_methods.rb)
+* [John Connor's solution](https://github.com/jacgitcz/enumeration_methods)
+* [Earth35's solution](https://github.com/Earth35/basic_ruby_projects_II/blob/master/enumerables_rebuilt.rb)
+* [Kelvin Stone's solution](https://github.com/KelvinStone/enumerable/blob/master/enumerable.rb)
+* [Ricardo Ferreira's solution](https://github.com/RMF2PT/ruby_programming/blob/master/my_methods.rb)
+* [Michael Sotkin's solution](https://github.com/msotkin/advanced_building_blocks/blob/master/enumerable.rb)
+* [Joshua Hipple's solution](https://github.com/JBHipple/enumerator/blob/master/enumerable.rb)
+* [Oscar Y.'s solution](https://github.com/mysteryihs/ruby_projects/blob/master/module_Enumerable.rb)
+* [Ace Cassidy's solution](https://github.com/Ace-Cassidy/my_methods/blob/master/my_enumerables.rb)
+* [Shawn Stovall's solution](https://github.com/shawn-stovall/enumerable-methods/blob/master/enumerable_methods.rb)
+* [Luchillo's solution](https://github.com/Luchillo/The-Odin-Project-course/blob/master/Ruby-programming/Basic-ruby/enumerable.rb)
+* [Adam Graham's solution](https://github.com/adamg703/Odin_Project/blob/master/Enumerable_module.rb)
+* [Rahul's solution](https://github.com/rspsonu/the_odin_project/blob/master/ruby/advanced_building_blocks/project2.rb)
+* [Jiazhi Guo's solution](https://github.com/jerrykuo7727/Enumerable-Methods/blob/master/enumerable_methods.rb)
+* [j-campbell's solution](https://github.com/j-campbell/advanced-building-blocks/tree/master/project_2)
+* [Clint's solution](https://github.com/tholymap/Odin-Ruby-Advanced-Building-Blocks/blob/master/my_enumerable.rb)
+* [Manu Phatak's solution](https://github.com/bionikspoon/ruby_building_blocks/blob/master/lib/enumerable_methods.rb)
+* [Cody Buffaloe's solution](https://github.com/CodyLBuffaloe/enumerable_methods/blob/master/enumerable_methods.rb)
+* [J-kaizen's solution](https://github.com/J-kaizen/TheOdinProject/blob/master/Ruby/advanced_building_blocks/enumerable_methods.rb)
+* [Leonard Soai-Van's solution](https://github.com/leosoaivan/rubybuildingblocks/blob/master/enumerable.rb)
+* [Max Platt's solution](https://github.com/makxks/advanced_building_blocks/blob/master/enumerable_methods.rb)
 * Add your solution above this line!
-
 
 ## Additional Resources
 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
-
-
-*

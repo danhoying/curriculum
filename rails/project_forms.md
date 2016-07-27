@@ -67,7 +67,7 @@ The first form you build will be mostly HTML (remember that stuff at all?).  Bui
         end
     ```
 
-7. Test this out -- can you now create users with your form?
+7. Test this out -- can you now create users with your form? If so, you should see an INSERT SQL command in the server log.
 6. We're not done just yet... that looks too long and difficult to build a user with all those `params` calls.  It'd be a whole lot easier if we could just use a hash of the user's attributes so we could just say something like `User.new(user_params)`.  Let's build it... we need our form to submit a hash of attributes that will be used to create a user, just like we would with Rails' `form_for` method.  Remember, that method submits a top level `user` field which actually points to a hash of values.  This is simple to achieve, though -- just change the `name` attribute slightly.  Nest your three User fields inside the variable attribute using brackets in their names, e.g. `name="user[email]"`.
 7. Resubmit.  Now your user parameters should be nested under the `"user"` key like:
 
@@ -138,6 +138,28 @@ Now we'll start morphing our form into a full Rails form using the `#form_tag` a
 * [Raycotek's solution](https://github.com/Raycotek/Re-Former)
 * [dchen71's solution](https://github.com/dchen71/re-former)
 * [Matias Pan's solution](https://github.com/kriox26/re-former)
+* [Tomislav Mikulin's solution](https://github.com/MrKindle85/re-former)
+* [Alex Chen's solution](https://github.com/Chenzilla/re-former)
+* [Dan Hoying's solution](https://github.com/danhoying/re_former)
+* [Hassan Mahmoud's solution](https://github.com/HassanTC/re-former)
+* [Aviv Levinsky's solution](https://github.com/pugsiman/re-former)
+* [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/re-former)
+* [Alex Tsiras' solution](https://github.com/arialblack14/re-former)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/rails/re-former)
+* [Radi Totev's solution](https://github.com/raditotev/re-former)
+* [srashidi's solution](https://github.com/srashidi/Forms/tree/master/re-former)
+* [Luke Walker's solution](https://github.com/ubershibs/rails_course/tree/master/re-former)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/re-former)
+* [Matt Velez's solution](https://github.com/Timecrash/rails-projects/tree/master/re-former)
+* [Max Gallant's solution](https://github.com/mcgalcode/re-former)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/re-former)
+* [James Brooks's solution](https://github.com/jhbrooks/re-former)
+* [Akshay Bharwani's solution](https://github.com/akshaybharwani/re-former)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project7--bare-metal-forms-and-helpers/re-former)
+* [Arthur Vieira's solution](https://github.com/arthur-vieira/re-former)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/re-former)
+* [Deepak's solution](https://github.com/Deepak5050/re-former-v2.git)
+* [Earth35's solution](https://github.com/Earth35/re-former)
 * Add your solution above this line!
 
 
@@ -147,11 +169,8 @@ This chapter will take what you now know about forms and make it part of a real 
 
 ### Your Task
 
-1. Do the [Ruby on Rails Tutorial Chapter 7](http://ruby.railstutorial.org/chapters/sign-up#top), "Sign-Up".
+1. Do the [Ruby on Rails Tutorial Chapter 7](https://www.railstutorial.org/book/sign_up), "Sign-Up".
 
 ## Additional Resources
 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
-
-
-*

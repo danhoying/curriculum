@@ -37,7 +37,7 @@ There's a lot to do here but stick with it!  We'll start with some refactoring w
     * What is the difference between a "getter" and a "setter" method?
     * How do you make instance variables readable outside your class?  Writeable? Both at the same time?
     * Can a class call its own class methods?
-    * What's the difference between when would you use a class variable and when you would use a constant?
+    * What's the difference between when you would use a class variable and when you would use a constant?
     * What's the difference between a class and a module?
     * When would you use a class but not a module?
     * How does inheritance work?
@@ -84,7 +84,6 @@ There's a lot to do here but stick with it!  We'll start with some refactoring w
 
 1. Make sure you can do [Quiz #5](http://www.codequizzes.com/learn-ruby/intro-object-oriented-programming) from [Code Quizzes](http://www.codequizzes.com).
 2. Make sure you can do [Quiz #7](http://www.codequizzes.com/learn-ruby/modules-classes-inheritance) as well.
-1. Then do their [Practical Object Oriented Design Quiz](http://www.codequizzes.com/ruby/practical-object-oriented-design), which will delve deeper into design principles.  There are some new concepts here to pick up as well.
 
 ## Additional Resources
 
